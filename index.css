@@ -237,7 +237,9 @@ nav ul li a{
 }
 
 .kontakti-slike iframe{
+	margin:auto;
 	width: 250%;
+	
 }
 
 	/* Velicina kontakta i mape za telefon */

@@ -176,6 +176,7 @@ nav ul li a{
 	padding: 60px 0;
 	padding-bottom: 120px;
 }
+
 .naslov{
 	text-align: center;
 	padding-bottom: 65px;
@@ -192,17 +193,21 @@ nav ul li a{
 	flex-wrap: wrap;
 	align-items: center;
 	text-align: center;
+
 }
 .istorijat{
 	flex-basis: 100%;
+
 }
 .istorijat-text p1{
 	color: #ff0000;
+
 }
 .istorijat h1{	
 	margin-bottom: 30px;
 	font-weight: 100;
 	color: #009688;
+
 }
 
 
@@ -221,6 +226,7 @@ nav ul li a{
 	height: 0px;
 	clear: both;
 	float: none;
+
 }
 .istorijat div{
 	float: left;
